@@ -91,4 +91,4 @@ E-commerce platform with cart & admin dashboard
 
 ---
 
-⭐ From [Jayesh Avhad](https://github.com/yourusername)
+⭐ From [jayesh-itDS](https://github.com/yourusername)
